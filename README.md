@@ -1,1 +1,1 @@
-# CG_Spring_Greeting_App
+# CG_Spring_Messaging_App
